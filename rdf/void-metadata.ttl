@@ -1,0 +1,26 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://www.duchamparchives.org/about/> a foaf:Document .
+
+<http://data.duchamparchives.org/> a void:Dataset ;
+    dcterms:contributor <http://www.philamuseum.org> ;
+    dcterms:date "2020-05-19T19:08:41.963232"^^xsd:dateTime ;
+    dcterms:description <https://github.com/philamuseum/drp-data/blob/master/README.md> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:publisher <http://www.philamuseum.org> ;
+    dcterms:subject <http://vocab.getty.edu/aat/300133025>,
+        <http://vocab.getty.edu/aat/300375748>,
+        <http://vocab.getty.edu/ulan/500115393> ;
+    dcterms:title "Duchamp Research Portal Data" ;
+    void:exampleResource <http://data.duchamparchives.org/pma/archive/component/EDR_B002_F004_007> ;
+    void:feature <https://www.w3.org/ns/formats/data/Turtle> ;
+    void:triples 1500590 ;
+    void:uriSpace <http://data.duchamparchives.org/> ;
+    foaf:homepage <https://collections.okeeffemuseum.org/about/> .
+

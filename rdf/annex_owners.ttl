@@ -1,0 +1,8 @@
+<http://data.duchamparchives.org/pompidou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> ;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Centre Pompidou" .
+
+<http://data.duchamparchives.org/amd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> ;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Association Marcel Duchamp" .
+
+<http://data.philamuseum.org> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E74_Group> ;
+  <http://www.w3.org/2000/01/rdf-schema#label> "Philadelphia Museum of Art" .

@@ -1,0 +1,651 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://vocab.getty.edu/aat/300015387> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "diagrams" .
+
+<http://vocab.getty.edu/aat/300015617> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "sketches" .
+
+<http://vocab.getty.edu/aat/300015643> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "reproductions (derivative objects)" .
+
+<http://vocab.getty.edu/aat/300021512> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "Surrealist" .
+
+<http://vocab.getty.edu/aat/300025103> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "artists (visual artists)" .
+
+<http://vocab.getty.edu/aat/300025123> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "illustrators" .
+
+<http://vocab.getty.edu/aat/300025526> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "editors (people who revise)" .
+
+<http://vocab.getty.edu/aat/300025574> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "publishers" .
+
+<http://vocab.getty.edu/aat/300025601> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "translators" .
+
+<http://vocab.getty.edu/aat/300025687> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photographers" .
+
+<http://vocab.getty.edu/aat/300025732> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "printers (people)" .
+
+<http://vocab.getty.edu/aat/300026032> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "abstracts (summaries)" .
+
+<http://vocab.getty.edu/aat/300026059> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "catalogs (documents)",
+        "catalogues (documents)" .
+
+<http://vocab.getty.edu/aat/300026068> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "auction catalogs",
+        "auction catalogues" .
+
+<http://vocab.getty.edu/aat/300026074> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "sale catalogues",
+        "sales catalogs" .
+
+<http://vocab.getty.edu/aat/300026096> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "exhibition catalogs",
+        "exhibition catalogues" .
+
+<http://vocab.getty.edu/aat/300026234> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "directories" .
+
+<http://vocab.getty.edu/aat/300026392> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "interviews" .
+
+<http://vocab.getty.edu/aat/300026393> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "manifestoes",
+        "manifestos" .
+
+<http://vocab.getty.edu/aat/300026395> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "manuals (instructional materials)" .
+
+<http://vocab.getty.edu/aat/300026437> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "press releases" .
+
+<http://vocab.getty.edu/aat/300026487> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "scripts (documents)" .
+
+<http://vocab.getty.edu/aat/300026497> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bibliographies" .
+
+<http://vocab.getty.edu/aat/300026506> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "annotated bibliographies" .
+
+<http://vocab.getty.edu/aat/300026652> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "newsletters" .
+
+<http://vocab.getty.edu/aat/300026657> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "periodicals" .
+
+<http://vocab.getty.edu/aat/300026673> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "lectures" .
+
+<http://vocab.getty.edu/aat/300026687> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "acknowledgments" .
+
+<http://vocab.getty.edu/aat/300026695> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photograph albums" .
+
+<http://vocab.getty.edu/aat/300026707> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "announcements" .
+
+<http://vocab.getty.edu/aat/300026725> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bids (documents)" .
+
+<http://vocab.getty.edu/aat/300026727> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "estimates" .
+
+<http://vocab.getty.edu/aat/300026739> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "broadsides (notices)" .
+
+<http://vocab.getty.edu/aat/300026741> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "calendars (documents)" .
+
+<http://vocab.getty.edu/aat/300026756> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "cards (information artifacts)" .
+
+<http://vocab.getty.edu/aat/300026767> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "business cards" .
+
+<http://vocab.getty.edu/aat/300026769> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "catalog cards" .
+
+<http://vocab.getty.edu/aat/300026778> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "greeting cards" .
+
+<http://vocab.getty.edu/aat/300026782> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "Christmas cards" .
+
+<http://vocab.getty.edu/aat/300026799> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "identity cards" .
+
+<http://vocab.getty.edu/aat/300026802> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "library cards" .
+
+<http://vocab.getty.edu/aat/300026816> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "postcards" .
+
+<http://vocab.getty.edu/aat/300026823> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "visiting cards" .
+
+<http://vocab.getty.edu/aat/300026841> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "certificates" .
+
+<http://vocab.getty.edu/aat/300026867> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "clippings (information artifacts)" .
+
+<http://vocab.getty.edu/aat/300026877> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "correspondence" .
+
+<http://vocab.getty.edu/aat/300026906> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "memorandums" .
+
+<http://vocab.getty.edu/aat/300026909> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "telegrams" .
+
+<http://vocab.getty.edu/aat/300026931> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "drafts (documents)" .
+
+<http://vocab.getty.edu/aat/300026939> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "excerpts" .
+
+<http://vocab.getty.edu/aat/300026972> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "biography files" .
+
+<http://vocab.getty.edu/aat/300027002> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "application forms" .
+
+<http://vocab.getty.edu/aat/300027016> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "genealogical tables" .
+
+<http://vocab.getty.edu/aat/300027045> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "inventories" .
+
+<http://vocab.getty.edu/aat/300027083> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "invitations" .
+
+<http://vocab.getty.edu/aat/300027086> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "itineraries" .
+
+<http://vocab.getty.edu/aat/300027112> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "diaries" .
+
+<http://vocab.getty.edu/aat/300027119> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "lists (document genres)" .
+
+<http://vocab.getty.edu/aat/300027200> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "notes (documents)" .
+
+<http://vocab.getty.edu/aat/300027219> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "petitions" .
+
+<http://vocab.getty.edu/aat/300027221> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "posters" .
+
+<http://vocab.getty.edu/aat/300027240> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "programmes (documents)",
+        "programs (documents)" .
+
+<http://vocab.getty.edu/aat/300027261> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "proposals" .
+
+<http://vocab.getty.edu/aat/300027262> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "grant proposals" .
+
+<http://vocab.getty.edu/aat/300027267> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "reports" .
+
+<http://vocab.getty.edu/aat/300027292> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "annual reports" .
+
+<http://vocab.getty.edu/aat/300027297> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "plans (reports)" .
+
+<http://vocab.getty.edu/aat/300027339> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "schedules (time plans)" .
+
+<http://vocab.getty.edu/aat/300027341> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "scrapbooks" .
+
+<http://vocab.getty.edu/aat/300027371> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "tax records" .
+
+<http://vocab.getty.edu/aat/300027381> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "tickets" .
+
+<http://vocab.getty.edu/aat/300027392> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "passports" .
+
+<http://vocab.getty.edu/aat/300027395> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "visas" .
+
+<http://vocab.getty.edu/aat/300027399> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "birth certificates" .
+
+<http://vocab.getty.edu/aat/300027418> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "marriage certificates" .
+
+<http://vocab.getty.edu/aat/300027425> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "administrative records" .
+
+<http://vocab.getty.edu/aat/300027426> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "agendas (administrative records)" .
+
+<http://vocab.getty.edu/aat/300027428> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "ballots" .
+
+<http://vocab.getty.edu/aat/300027433> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bylaws (administrative records)" .
+
+<http://vocab.getty.edu/aat/300027437> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "constitutions" .
+
+<http://vocab.getty.edu/aat/300027440> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "minutes (administrative records)" .
+
+<http://vocab.getty.edu/aat/300027451> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "résumés (personnel records)" .
+
+<http://vocab.getty.edu/aat/300027457> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "resolutions (administrative records)" .
+
+<http://vocab.getty.edu/aat/300027473> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "financial records" .
+
+<http://vocab.getty.edu/aat/300027474> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "appraisals (financial records)" .
+
+<http://vocab.getty.edu/aat/300027476> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bank statements" .
+
+<http://vocab.getty.edu/aat/300027515> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "checkbooks" .
+
+<http://vocab.getty.edu/aat/300027527> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "insurance policies" .
+
+<http://vocab.getty.edu/aat/300027568> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "invoices" .
+
+<http://vocab.getty.edu/aat/300027573> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "receipts (financial records)" .
+
+<http://vocab.getty.edu/aat/300027594> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "affidavits" .
+
+<http://vocab.getty.edu/aat/300027597> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "articles of incorporation" .
+
+<http://vocab.getty.edu/aat/300027621> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "charters" .
+
+<http://vocab.getty.edu/aat/300027628> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "agreements" .
+
+<http://vocab.getty.edu/aat/300027764> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "wills" .
+
+<http://vocab.getty.edu/aat/300027804> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "customs records" .
+
+<http://vocab.getty.edu/aat/300027808> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "immigration records" .
+
+<http://vocab.getty.edu/aat/300027822> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "military records" .
+
+<http://vocab.getty.edu/aat/300027845> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "codes (records, regulations)" .
+
+<http://vocab.getty.edu/aat/300027850> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "judicial records" .
+
+<http://vocab.getty.edu/aat/300027895> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "ordinances" .
+
+<http://vocab.getty.edu/aat/300027963> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "museum records" .
+
+<http://vocab.getty.edu/aat/300028094> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "maps (documents)" .
+
+<http://vocab.getty.edu/aat/300028102> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "cadastral maps" .
+
+<http://vocab.getty.edu/aat/300028467> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "printouts" .
+
+<http://vocab.getty.edu/aat/300028469> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "letterpress copies" .
+
+<http://vocab.getty.edu/aat/300028499> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "blueprints (reprographic copies)" .
+
+<http://vocab.getty.edu/aat/300028509> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "diazotypes (copies)" .
+
+<http://vocab.getty.edu/aat/300028571> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "autographs (manuscripts)" .
+
+<http://vocab.getty.edu/aat/300028702> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "inscriptions" .
+
+<http://vocab.getty.edu/aat/300028731> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bookplates" .
+
+<http://vocab.getty.edu/aat/300028881> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "ephemera (general object genre)" .
+
+<http://vocab.getty.edu/aat/300033618> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "paintings (visual works)" .
+
+<http://vocab.getty.edu/aat/300033963> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "collages (visual works)" .
+
+<http://vocab.getty.edu/aat/300033973> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "drawings (visual works)" .
+
+<http://vocab.getty.edu/aat/300034787> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "architectural drawings (visual works)" .
+
+<http://vocab.getty.edu/aat/300041273> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "prints (visual works)" .
+
+<http://vocab.getty.edu/aat/300041340> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "engravings (prints)" .
+
+<http://vocab.getty.edu/aat/300041379> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "lithographs" .
+
+<http://vocab.getty.edu/aat/300041424> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photomechanical prints" .
+
+<http://vocab.getty.edu/aat/300041486> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "stats (copies)" .
+
+<http://vocab.getty.edu/aat/300045075> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "financial statements" .
+
+<http://vocab.getty.edu/aat/300046300> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photographs" .
+
+<http://vocab.getty.edu/aat/300047090> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "sculpture (visual works)" .
+
+<http://vocab.getty.edu/aat/300048715> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "articles" .
+
+<http://vocab.getty.edu/aat/300048720> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "exhibition records" .
+
+<http://vocab.getty.edu/aat/300049060> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "forms (documents)" .
+
+<http://vocab.getty.edu/aat/300054141> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "film (discipline)" .
+
+<http://vocab.getty.edu/aat/300054181> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "graphic design" .
+
+<http://vocab.getty.edu/aat/300054200> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "illustration (process)" .
+
+<http://vocab.getty.edu/aat/300054388> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "geography" .
+
+<http://vocab.getty.edu/aat/300054631> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "classification (information handling function)" .
+
+<http://vocab.getty.edu/aat/300054700> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "editing" .
+
+<http://vocab.getty.edu/aat/300054713> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "production (process)" .
+
+<http://vocab.getty.edu/aat/300055547> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "legal concepts" .
+
+<http://vocab.getty.edu/aat/300068844> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "use" .
+
+<http://vocab.getty.edu/aat/300078925> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "water-colours (paintings)",
+        "watercolors (paintings)" .
+
+<http://vocab.getty.edu/aat/300080091> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "description (activity)" .
+
+<http://vocab.getty.edu/aat/300113285> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "estate records" .
+
+<http://vocab.getty.edu/aat/300121462> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "mail art" .
+
+<http://vocab.getty.edu/aat/300127104> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photographic prints" .
+
+<http://vocab.getty.edu/aat/300127115> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "card photographs (photographs)" .
+
+<http://vocab.getty.edu/aat/300127131> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "cabinet photographs" .
+
+<http://vocab.getty.edu/aat/300127141> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "cartes-de-visite (card photographs)" .
+
+<http://vocab.getty.edu/aat/300127173> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "negatives (photographs)" .
+
+<http://vocab.getty.edu/aat/300127382> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "roll film" .
+
+<http://vocab.getty.edu/aat/300127478> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "transparencies" .
+
+<http://vocab.getty.edu/aat/300128371> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "slides (photographs)" .
+
+<http://vocab.getty.edu/aat/300128695> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "gelatin silver prints" .
+
+<http://vocab.getty.edu/aat/300133025> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "works of art" .
+
+<http://vocab.getty.edu/aat/300133046> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "access" .
+
+<http://vocab.getty.edu/aat/300134693> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "passport photographs" .
+
+<http://vocab.getty.edu/aat/300134877> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "diffusion transfer prints" .
+
+<http://vocab.getty.edu/aat/300135016> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "archival processing" .
+
+<http://vocab.getty.edu/aat/300136681> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "shipping records" .
+
+<http://vocab.getty.edu/aat/300136847> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "photocopies" .
+
+<http://vocab.getty.edu/aat/300138076> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "processes" .
+
+<http://vocab.getty.edu/aat/300141696> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bills of sale" .
+
+<http://vocab.getty.edu/aat/300162872> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "stereoscopic photographs" .
+
+<http://vocab.getty.edu/aat/300163343> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "media (artists' materials)" .
+
+<http://vocab.getty.edu/aat/300172465> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "galley proofs" .
+
+<http://vocab.getty.edu/aat/300189226> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "writings (documents)" .
+
+<http://vocab.getty.edu/aat/300191339> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "checks (bank checks)" .
+
+<http://vocab.getty.edu/aat/300192339> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "sequences" .
+
+<http://vocab.getty.edu/aat/300192896> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "offset lithographs" .
+
+<http://vocab.getty.edu/aat/300193993> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "advertisements" .
+
+<http://vocab.getty.edu/aat/300193998> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "letterheads" .
+
+<http://vocab.getty.edu/aat/300197601> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "envelopes" .
+
+<http://vocab.getty.edu/aat/300197602> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "folders (containers)" .
+
+<http://vocab.getty.edu/aat/300198929> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "portfolios (containers)" .
+
+<http://vocab.getty.edu/aat/300200438> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "page proofs" .
+
+<http://vocab.getty.edu/aat/300220572> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "pamphlets" .
+
+<http://vocab.getty.edu/aat/300224742> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "fliers (printed matter)" .
+
+<http://vocab.getty.edu/aat/300248231> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "depictions (visual works)" .
+
+<http://vocab.getty.edu/aat/300248280> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "brochures" .
+
+<http://vocab.getty.edu/aat/300252008> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "chronologies (lists)" .
+
+<http://vocab.getty.edu/aat/300255378> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "membership cards" .
+
+<http://vocab.getty.edu/aat/300256059> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "admit cards" .
+
+<http://vocab.getty.edu/aat/300256179> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "draft cards" .
+
+<http://vocab.getty.edu/aat/300264821> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "printed ephemera" .
+
+<http://vocab.getty.edu/aat/300265639> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "research notes" .
+
+<http://vocab.getty.edu/aat/300266009> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "condition reports" .
+
+<http://vocab.getty.edu/aat/300266036> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "dimensions" .
+
+<http://vocab.getty.edu/aat/300311679> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "bulletins" .
+
+<http://vocab.getty.edu/aat/300311705> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "citations (bibliographic references)" .
+
+<http://vocab.getty.edu/aat/300311889> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "objects" .
+
+<http://vocab.getty.edu/aat/300312355> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "accession numbers" .
+
+<http://vocab.getty.edu/aat/300375748> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "archives (groupings)" .
+
+<http://vocab.getty.edu/aat/300386174> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "creators" .
+
+<http://vocab.getty.edu/aat/300388277> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "English (language)" .
+
+<http://vocab.getty.edu/aat/300388306> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "French (language)" .
+
+<http://vocab.getty.edu/aat/300388344> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "German (language)" .
+
+<http://vocab.getty.edu/aat/300389168> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "Russian (language)" .
+
+<http://vocab.getty.edu/aat/300393199> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "commissioning (function)" .
+
+<http://vocab.getty.edu/aat/300404016> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "biographical sketches" .
+
+<http://vocab.getty.edu/aat/300404126> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "subjects (content of works)" .
+
+<http://vocab.getty.edu/aat/300404202> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "files (digital files)" .
+
+<http://vocab.getty.edu/aat/300404286> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "after (attribution qualifier)" .
+
+<http://vocab.getty.edu/aat/300404387> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "creating (artistic activity)" .
+
+<http://vocab.getty.edu/aat/300404397> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "linear feet" .
+
+<http://vocab.getty.edu/aat/300404588> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "printed materials (object genre)" .
+
+<http://vocab.getty.edu/aat/300404621> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "repository numbers" .
+
+<http://vocab.getty.edu/aat/300404670> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "preferred terms" .
+
+<http://vocab.getty.edu/aat/300404676> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "pen and ink drawings" .
+
+<http://vocab.getty.edu/aat/300404753> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "floor plans (form attributes)" .
+
+<http://vocab.getty.edu/aat/300404777> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "possible (information indicator)" .
+
+<http://vocab.getty.edu/aat/300411336> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "reproduction (copying)" .
+
+<http://vocab.getty.edu/aat/300411780> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "descriptions (documents)" .
+
+<http://vocab.getty.edu/aat/300417367> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "exhibition announcements" .
+
+<http://vocab.getty.edu/aat/300417633> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "legal status" .
+
+<http://vocab.getty.edu/aat/300417644> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "transfer (method of acquisition)" .
+
+<http://vocab.getty.edu/aat/300417819> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "museum catalogs" .
+
+<http://vocab.getty.edu/aat/300419325> a <http://www.cidoc-crm.org/cidoc-crm/E55_Type> ;
+    rdfs:label "x-radiographs" .
+

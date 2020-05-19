@@ -1,0 +1,1272 @@
+<http://vocab.getty.edu/aat/300025601> <http://www.w3.org/2000/01/rdf-schema#label> "translators"@en .
+<http://vocab.getty.edu/aat/300025601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/traducteurs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025601> .
+<http://data.duchamparchives.org/cp/archive/genreform/traducteurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025601> <http://www.w3.org/2000/01/rdf-schema#label> "traducteurs"@fr .
+
+<http://vocab.getty.edu/aat/300054200> <http://www.w3.org/2000/01/rdf-schema#label> "illustration (process)"@en .
+<http://vocab.getty.edu/aat/300054200> <http://www.w3.org/2000/01/rdf-schema#label> "illustration"@fr .
+<http://vocab.getty.edu/aat/300054200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/illustration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/illustration> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054200> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/cr-ateurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/cr-ateurs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300386174> .
+<http://vocab.getty.edu/aat/300386174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300386174> <http://www.w3.org/2000/01/rdf-schema#label> "créateurs"@fr .
+<http://vocab.getty.edu/aat/300386174> <http://www.w3.org/2000/01/rdf-schema#label> "creators"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/fiche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026756> <http://www.w3.org/2000/01/rdf-schema#label> "cards (information artifacts)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/fiche> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026756> .
+<http://vocab.getty.edu/aat/300026756> <http://www.w3.org/2000/01/rdf-schema#label> "fiche"@fr .
+<http://vocab.getty.edu/aat/300026756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/fiche-catalographique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026769> <http://www.w3.org/2000/01/rdf-schema#label> "catalog cards"@en .
+<http://vocab.getty.edu/aat/300026769> <http://www.w3.org/2000/01/rdf-schema#label> "fiche catalographique"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/fiche-catalographique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026769> .
+<http://vocab.getty.edu/aat/300026769> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300127382> <http://www.w3.org/2000/01/rdf-schema#label> "roll film"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/film-en-rouleau> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127382> .
+<http://vocab.getty.edu/aat/300127382> <http://www.w3.org/2000/01/rdf-schema#label> "film en rouleau"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/film-en-rouleau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027963> <http://www.w3.org/2000/01/rdf-schema#label> "museum records"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/archives-du-mus-e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027963> <http://www.w3.org/2000/01/rdf-schema#label> "archives du musée"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/archives-du-mus-e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027963> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente-aux-ench-res> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/2000/01/rdf-schema#label> "catalogue de vente aux enchères"@fr .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/2000/01/rdf-schema#label> "auction catalogs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente-aux-ench-res> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026068> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente-aux-ench-res> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/2000/01/rdf-schema#label> "catalogue de vente aux enchères"@fr .
+<http://vocab.getty.edu/aat/300026068> <http://www.w3.org/2000/01/rdf-schema#label> "auction catalogues"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente-aux-ench-res> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026068> .
+
+<http://vocab.getty.edu/aat/300026802> <http://www.w3.org/2000/01/rdf-schema#label> "library cards"@en .
+<http://vocab.getty.edu/aat/300026802> <http://www.w3.org/2000/01/rdf-schema#label> "carte de bibliothèque"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-biblioth-que> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-biblioth-que> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026802> .
+<http://vocab.getty.edu/aat/300026802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026939> <http://www.w3.org/2000/01/rdf-schema#label> "excerpts"@en .
+<http://vocab.getty.edu/aat/300026939> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026939> <http://www.w3.org/2000/01/rdf-schema#label> "extrait"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/extrait> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026939> .
+<http://data.duchamparchives.org/cp/archive/genreform/extrait> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/journal-personnel> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027112> .
+<http://vocab.getty.edu/aat/300027112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027112> <http://www.w3.org/2000/01/rdf-schema#label> "journal personnel"@fr .
+<http://vocab.getty.edu/aat/300027112> <http://www.w3.org/2000/01/rdf-schema#label> "diaries"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/journal-personnel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027339> <http://www.w3.org/2000/01/rdf-schema#label> "échéancier"@fr .
+<http://vocab.getty.edu/aat/300027339> <http://www.w3.org/2000/01/rdf-schema#label> "schedules (time plans)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/-ch-ancier> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027339> .
+<http://vocab.getty.edu/aat/300027339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/-ch-ancier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/cartes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/cartes> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028094> .
+<http://vocab.getty.edu/aat/300028094> <http://www.w3.org/2000/01/rdf-schema#label> "cartes"@fr .
+<http://vocab.getty.edu/aat/300028094> <http://www.w3.org/2000/01/rdf-schema#label> "maps (documents)"@en .
+
+<http://vocab.getty.edu/aat/300028499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028499> <http://www.w3.org/2000/01/rdf-schema#label> "bleu"@fr .
+<http://vocab.getty.edu/aat/300028499> <http://www.w3.org/2000/01/rdf-schema#label> "blueprints (reprographic copies)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/bleu> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028499> .
+<http://data.duchamparchives.org/cp/archive/genreform/bleu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300121462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300121462> <http://www.w3.org/2000/01/rdf-schema#label> "mail art"@fr .
+<http://vocab.getty.edu/aat/300121462> <http://www.w3.org/2000/01/rdf-schema#label> "mail art"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/mail-art> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300121462> .
+<http://data.duchamparchives.org/cp/archive/genreform/mail-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/-preuve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/-preuve> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300172465> .
+<http://vocab.getty.edu/aat/300172465> <http://www.w3.org/2000/01/rdf-schema#label> "épreuve"@fr .
+<http://vocab.getty.edu/aat/300172465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300172465> <http://www.w3.org/2000/01/rdf-schema#label> "galley proofs"@en .
+
+<http://vocab.getty.edu/aat/300191339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300191339> <http://www.w3.org/2000/01/rdf-schema#label> "checks (bank checks)"@en .
+<http://vocab.getty.edu/aat/300191339> <http://www.w3.org/2000/01/rdf-schema#label> "chèque bancaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/ch-que-bancaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300191339> .
+<http://data.duchamparchives.org/cp/archive/genreform/ch-que-bancaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300224742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300224742> <http://www.w3.org/2000/01/rdf-schema#label> "feuillet publicitaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/feuillet-publicitaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/feuillet-publicitaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300224742> .
+<http://vocab.getty.edu/aat/300224742> <http://www.w3.org/2000/01/rdf-schema#label> "fliers (printed matter)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/documents-ph-m-res> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300264821> .
+<http://data.duchamparchives.org/cp/archive/genreform/documents-ph-m-res> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300264821> <http://www.w3.org/2000/01/rdf-schema#label> "printed ephemera"@en .
+<http://vocab.getty.edu/aat/300264821> <http://www.w3.org/2000/01/rdf-schema#label> "documents éphémères"@fr .
+<http://vocab.getty.edu/aat/300264821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027267> <http://www.w3.org/2000/01/rdf-schema#label> "rapport"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/rapport> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027267> .
+<http://data.duchamparchives.org/cp/archive/genreform/rapport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027267> <http://www.w3.org/2000/01/rdf-schema#label> "reports"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/document-autographe> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028571> .
+<http://vocab.getty.edu/aat/300028571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028571> <http://www.w3.org/2000/01/rdf-schema#label> "autographs (manuscripts)"@en .
+<http://vocab.getty.edu/aat/300028571> <http://www.w3.org/2000/01/rdf-schema#label> "document autographe"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/document-autographe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/dessins-d-architecture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300034787> <http://www.w3.org/2000/01/rdf-schema#label> "dessins d'architecture"@fr .
+<http://vocab.getty.edu/aat/300034787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dessins-d-architecture> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300034787> .
+<http://vocab.getty.edu/aat/300034787> <http://www.w3.org/2000/01/rdf-schema#label> "architectural drawings (visual works)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/livret> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300220572> .
+<http://data.duchamparchives.org/cp/archive/genreform/livret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300220572> <http://www.w3.org/2000/01/rdf-schema#label> "livret"@fr .
+<http://vocab.getty.edu/aat/300220572> <http://www.w3.org/2000/01/rdf-schema#label> "pamphlets"@en .
+<http://vocab.getty.edu/aat/300220572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/-tat-de-compte-en-banque> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027476> .
+<http://vocab.getty.edu/aat/300027476> <http://www.w3.org/2000/01/rdf-schema#label> "bank statements"@en .
+<http://vocab.getty.edu/aat/300027476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027476> <http://www.w3.org/2000/01/rdf-schema#label> "état de compte en banque"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/-tat-de-compte-en-banque> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/charte> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027621> .
+<http://vocab.getty.edu/aat/300027621> <http://www.w3.org/2000/01/rdf-schema#label> "charte"@fr .
+<http://vocab.getty.edu/aat/300027621> <http://www.w3.org/2000/01/rdf-schema#label> "charters"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/charte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/acte-de-vente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300141696> <http://www.w3.org/2000/01/rdf-schema#label> "bills of sale"@en .
+<http://vocab.getty.edu/aat/300141696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300141696> <http://www.w3.org/2000/01/rdf-schema#label> "acte de vente"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/acte-de-vente> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300141696> .
+
+<http://vocab.getty.edu/aat/300026506> <http://www.w3.org/2000/01/rdf-schema#label> "bibliographie annotée"@fr .
+<http://vocab.getty.edu/aat/300026506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/bibliographie-annot-e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026506> .
+<http://data.duchamparchives.org/cp/archive/genreform/bibliographie-annot-e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026506> <http://www.w3.org/2000/01/rdf-schema#label> "annotated bibliographies"@en .
+
+<http://vocab.getty.edu/aat/300026725> <http://www.w3.org/2000/01/rdf-schema#label> "offres"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/offres> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026725> .
+<http://data.duchamparchives.org/cp/archive/genreform/offres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026725> <http://www.w3.org/2000/01/rdf-schema#label> "bids (documents)"@en .
+<http://vocab.getty.edu/aat/300026725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027292> <http://www.w3.org/2000/01/rdf-schema#label> "rapport annuel"@fr .
+<http://vocab.getty.edu/aat/300027292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/rapport-annuel> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027292> .
+<http://data.duchamparchives.org/cp/archive/genreform/rapport-annuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027292> <http://www.w3.org/2000/01/rdf-schema#label> "annual reports"@en .
+
+<http://vocab.getty.edu/aat/300027437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027437> <http://www.w3.org/2000/01/rdf-schema#label> "constitutions"@en .
+<http://vocab.getty.edu/aat/300027437> <http://www.w3.org/2000/01/rdf-schema#label> "constitution"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/constitution> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027437> .
+<http://data.duchamparchives.org/cp/archive/genreform/constitution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-financiers> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027473> .
+<http://vocab.getty.edu/aat/300027473> <http://www.w3.org/2000/01/rdf-schema#label> "financial records"@en .
+<http://vocab.getty.edu/aat/300027473> <http://www.w3.org/2000/01/rdf-schema#label> "dossiers financiers"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-financiers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027474> <http://www.w3.org/2000/01/rdf-schema#label> "estimations (appraisals, records)"@fr .
+<http://vocab.getty.edu/aat/300027474> <http://www.w3.org/2000/01/rdf-schema#label> "appraisals (financial records)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/estimations-appraisals-records-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027474> .
+<http://data.duchamparchives.org/cp/archive/genreform/estimations-appraisals-records-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027594> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027594> <http://www.w3.org/2000/01/rdf-schema#label> "affidavit"@fr .
+<http://vocab.getty.edu/aat/300027594> <http://www.w3.org/2000/01/rdf-schema#label> "affidavits"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/affidavit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/affidavit> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027594> .
+
+<http://vocab.getty.edu/aat/300027597> <http://www.w3.org/2000/01/rdf-schema#label> "articles of incorporation"@en .
+<http://vocab.getty.edu/aat/300027597> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027597> <http://www.w3.org/2000/01/rdf-schema#label> "statut constitutif"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/statut-constitutif> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027597> .
+<http://data.duchamparchives.org/cp/archive/genreform/statut-constitutif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/plans-cadastraux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/plans-cadastraux> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028102> .
+<http://vocab.getty.edu/aat/300028102> <http://www.w3.org/2000/01/rdf-schema#label> "plans cadastraux"@fr .
+<http://vocab.getty.edu/aat/300028102> <http://www.w3.org/2000/01/rdf-schema#label> "cadastral maps"@en .
+<http://vocab.getty.edu/aat/300028102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300045075> <http://www.w3.org/2000/01/rdf-schema#label> "financial statements"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/-tat-financier> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300045075> .
+<http://vocab.getty.edu/aat/300045075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300045075> <http://www.w3.org/2000/01/rdf-schema#label> "état financier"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/-tat-financier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300113285> <http://www.w3.org/2000/01/rdf-schema#label> "estate records"@en .
+<http://vocab.getty.edu/aat/300113285> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300113285> <http://www.w3.org/2000/01/rdf-schema#label> "documents de succession"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/documents-de-succession> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300113285> .
+<http://data.duchamparchives.org/cp/archive/genreform/documents-de-succession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300127115> <http://www.w3.org/2000/01/rdf-schema#label> "carte photographie"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-photographie> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127115> .
+<http://vocab.getty.edu/aat/300127115> <http://www.w3.org/2000/01/rdf-schema#label> "card photographs (photographs)"@en .
+<http://vocab.getty.edu/aat/300127115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-photographie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/portfolio> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300198929> .
+<http://vocab.getty.edu/aat/300198929> <http://www.w3.org/2000/01/rdf-schema#label> "portfolio"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/portfolio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300198929> <http://www.w3.org/2000/01/rdf-schema#label> "portfolios (containers)"@en .
+<http://vocab.getty.edu/aat/300198929> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/rapport-des-conditions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300266009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300266009> <http://www.w3.org/2000/01/rdf-schema#label> "rapport des conditions"@fr .
+<http://vocab.getty.edu/aat/300266009> <http://www.w3.org/2000/01/rdf-schema#label> "condition reports"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/rapport-des-conditions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300266009> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-mus-als> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300417819> .
+<http://vocab.getty.edu/aat/300417819> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues muséals"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-mus-als> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300417819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300417819> <http://www.w3.org/2000/01/rdf-schema#label> "museum catalogs"@en .
+
+<http://vocab.getty.edu/aat/300021512> <http://www.w3.org/2000/01/rdf-schema#label> "Surrealist"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/surr-aliste> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300021512> .
+<http://vocab.getty.edu/aat/300021512> <http://www.w3.org/2000/01/rdf-schema#label> "surréaliste"@fr .
+<http://vocab.getty.edu/aat/300021512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/surr-aliste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300193993> <http://www.w3.org/2000/01/rdf-schema#label> "annonce publicitaire"@fr .
+<http://vocab.getty.edu/aat/300193993> <http://www.w3.org/2000/01/rdf-schema#label> "advertisements"@en .
+<http://vocab.getty.edu/aat/300193993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/annonce-publicitaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300193993> .
+<http://data.duchamparchives.org/cp/archive/genreform/annonce-publicitaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027457> <http://www.w3.org/2000/01/rdf-schema#label> "resolutions (administrative records)"@en .
+<http://vocab.getty.edu/aat/300027457> <http://www.w3.org/2000/01/rdf-schema#label> "résolution"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/r-solution> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027457> .
+<http://data.duchamparchives.org/cp/archive/genreform/r-solution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027527> <http://www.w3.org/2000/01/rdf-schema#label> "police d'assurance"@fr .
+<http://vocab.getty.edu/aat/300027527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027527> <http://www.w3.org/2000/01/rdf-schema#label> "insurance policies"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/police-d-assurance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/police-d-assurance> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027527> .
+
+<http://vocab.getty.edu/aat/300027895> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/ordonnances> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/ordonnances> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027895> .
+<http://vocab.getty.edu/aat/300027895> <http://www.w3.org/2000/01/rdf-schema#label> "ordonnances"@fr .
+<http://vocab.getty.edu/aat/300027895> <http://www.w3.org/2000/01/rdf-schema#label> "ordinances"@en .
+
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/2000/01/rdf-schema#label> "manifeste politique"@fr .
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/2000/01/rdf-schema#label> "manifestoes"@en .
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/manifeste-politique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026393> .
+<http://data.duchamparchives.org/cp/archive/genreform/manifeste-politique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/2000/01/rdf-schema#label> "manifeste politique"@fr .
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/2000/01/rdf-schema#label> "manifestos"@en .
+<http://vocab.getty.edu/aat/300026393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/manifeste-politique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026393> .
+<http://data.duchamparchives.org/cp/archive/genreform/manifeste-politique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/plan> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027297> .
+<http://data.duchamparchives.org/cp/archive/genreform/plan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027297> <http://www.w3.org/2000/01/rdf-schema#label> "plan"@fr .
+<http://vocab.getty.edu/aat/300027297> <http://www.w3.org/2000/01/rdf-schema#label> "plans (reports)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/r-glements-administratifs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027433> .
+<http://vocab.getty.edu/aat/300027433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027433> <http://www.w3.org/2000/01/rdf-schema#label> "bylaws (administrative records)"@en .
+<http://vocab.getty.edu/aat/300027433> <http://www.w3.org/2000/01/rdf-schema#label> "règlements administratifs"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/r-glements-administratifs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/2000/01/rdf-schema#label> "water-colours (paintings)"@en .
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/aquarelles-peintures-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300078925> .
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/2000/01/rdf-schema#label> "aquarelles (peintures)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/aquarelles-peintures-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/2000/01/rdf-schema#label> "watercolors (paintings)"@en .
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/aquarelles-peintures-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300078925> .
+<http://vocab.getty.edu/aat/300078925> <http://www.w3.org/2000/01/rdf-schema#label> "aquarelles (peintures)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/aquarelles-peintures-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/auteur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/author> .
+<http://vocab.getty.edu/aat/author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/author> <http://www.w3.org/2000/01/rdf-schema#label> "author"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/auteur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/author> <http://www.w3.org/2000/01/rdf-schema#label> "auteur"@fr .
+
+<http://vocab.getty.edu/aat/300025123> <http://www.w3.org/2000/01/rdf-schema#label> "illustrators"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/illustrateur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025123> .
+<http://vocab.getty.edu/aat/300025123> <http://www.w3.org/2000/01/rdf-schema#label> "illustrateur"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/illustrateur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300025526> <http://www.w3.org/2000/01/rdf-schema#label> "editors (people who revise)"@en .
+<http://vocab.getty.edu/aat/300025526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/r-dacteur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025526> .
+<http://vocab.getty.edu/aat/300025526> <http://www.w3.org/2000/01/rdf-schema#label> "rédacteur"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/r-dacteur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/imprimeur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025732> .
+<http://vocab.getty.edu/aat/300025732> <http://www.w3.org/2000/01/rdf-schema#label> "printers (people)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/imprimeur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025732> <http://www.w3.org/2000/01/rdf-schema#label> "imprimeur"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/production> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054713> .
+<http://data.duchamparchives.org/cp/archive/genreform/production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300054713> <http://www.w3.org/2000/01/rdf-schema#label> "production"@fr .
+<http://vocab.getty.edu/aat/300054713> <http://www.w3.org/2000/01/rdf-schema#label> "production (process)"@en .
+<http://vocab.getty.edu/aat/300054713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300393199> <http://www.w3.org/2000/01/rdf-schema#label> "commander"@fr .
+<http://vocab.getty.edu/aat/300393199> <http://www.w3.org/2000/01/rdf-schema#label> "commissioning (function)"@en .
+<http://vocab.getty.edu/aat/300393199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/commander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/commander> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300393199> .
+
+<http://vocab.getty.edu/aat/300404286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/apr-s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300404286> <http://www.w3.org/2000/01/rdf-schema#label> "after (attribution qualifier)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/apr-s> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404286> .
+<http://vocab.getty.edu/aat/300404286> <http://www.w3.org/2000/01/rdf-schema#label> "après"@fr .
+
+<http://vocab.getty.edu/aat/300404777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/possible> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/possible> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404777> .
+<http://vocab.getty.edu/aat/300404777> <http://www.w3.org/2000/01/rdf-schema#label> "possible"@fr .
+<http://vocab.getty.edu/aat/300404777> <http://www.w3.org/2000/01/rdf-schema#label> "possible (information indicator)"@en .
+
+<http://vocab.getty.edu/aat/300411336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/reproduction> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300411336> .
+<http://vocab.getty.edu/aat/300411336> <http://www.w3.org/2000/01/rdf-schema#label> "reproduction"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/reproduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300411336> <http://www.w3.org/2000/01/rdf-schema#label> "reproduction (copying)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/affiche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027221> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027221> <http://www.w3.org/2000/01/rdf-schema#label> "posters"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/affiche> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027221> .
+<http://vocab.getty.edu/aat/300027221> <http://www.w3.org/2000/01/rdf-schema#label> "AFFICHE"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-voeux> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026778> .
+<http://vocab.getty.edu/aat/300026778> <http://www.w3.org/2000/01/rdf-schema#label> "greeting cards"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-voeux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026778> <http://www.w3.org/2000/01/rdf-schema#label> "CARTE DE VOEUX"@fr .
+<http://vocab.getty.edu/aat/300026778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-visite> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026823> .
+<http://vocab.getty.edu/aat/300026823> <http://www.w3.org/2000/01/rdf-schema#label> "CARTE DE VISITE"@fr .
+<http://vocab.getty.edu/aat/300026823> <http://www.w3.org/2000/01/rdf-schema#label> "visiting cards"@en .
+<http://vocab.getty.edu/aat/300026823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-visite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/2000/01/rdf-schema#label> "catalogs (documents)"@en .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/2000/01/rdf-schema#label> "CATALOGUE"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026059> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues (documents)"@en .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026059> <http://www.w3.org/2000/01/rdf-schema#label> "CATALOGUE"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026059> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/album-de-photos> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026695> .
+<http://vocab.getty.edu/aat/300026695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026695> <http://www.w3.org/2000/01/rdf-schema#label> "photograph albums"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/album-de-photos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026695> <http://www.w3.org/2000/01/rdf-schema#label> "album de photos"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/curriculum-vit-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027451> .
+<http://vocab.getty.edu/aat/300027451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027451> <http://www.w3.org/2000/01/rdf-schema#label> "curriculum vitæ"@fr .
+<http://vocab.getty.edu/aat/300027451> <http://www.w3.org/2000/01/rdf-schema#label> "résumés (personnel records)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/curriculum-vit-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/collage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033963> <http://www.w3.org/2000/01/rdf-schema#label> "collages (visual works)"@en .
+<http://vocab.getty.edu/aat/300033963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033963> <http://www.w3.org/2000/01/rdf-schema#label> "collage"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/collage> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033963> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/programme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/2000/01/rdf-schema#label> "programmes (documents)"@en .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/2000/01/rdf-schema#label> "programme"@fr .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/programme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027240> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/programme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/2000/01/rdf-schema#label> "programme"@fr .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027240> <http://www.w3.org/2000/01/rdf-schema#label> "programs (documents)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/programme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027240> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/-preuves-de-page> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300200438> <http://www.w3.org/2000/01/rdf-schema#label> "épreuves de page"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/-preuves-de-page> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300200438> .
+<http://vocab.getty.edu/aat/300200438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300200438> <http://www.w3.org/2000/01/rdf-schema#label> "page proofs"@en .
+
+<http://vocab.getty.edu/aat/300026739> <http://www.w3.org/2000/01/rdf-schema#label> "dépliant grand format"@fr .
+<http://vocab.getty.edu/aat/300026739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/d-pliant-grand-format> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026739> <http://www.w3.org/2000/01/rdf-schema#label> "broadsides (notices)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/d-pliant-grand-format> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026739> .
+
+<http://vocab.getty.edu/aat/300027016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027016> <http://www.w3.org/2000/01/rdf-schema#label> "arbre généalogique"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/arbre-g-n-alogique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027016> .
+<http://vocab.getty.edu/aat/300027016> <http://www.w3.org/2000/01/rdf-schema#label> "genealogical tables"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/arbre-g-n-alogique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/itin-raire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027086> <http://www.w3.org/2000/01/rdf-schema#label> "itineraries"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/itin-raire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027086> .
+<http://vocab.getty.edu/aat/300027086> <http://www.w3.org/2000/01/rdf-schema#label> "itinéraire"@fr .
+<http://vocab.getty.edu/aat/300027086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027219> <http://www.w3.org/2000/01/rdf-schema#label> "pétition"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/p-tition> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027219> .
+<http://vocab.getty.edu/aat/300027219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/p-tition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027219> <http://www.w3.org/2000/01/rdf-schema#label> "petitions"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/propositions-de-subvention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/propositions-de-subvention> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027262> .
+<http://vocab.getty.edu/aat/300027262> <http://www.w3.org/2000/01/rdf-schema#label> "propositions de subvention"@fr .
+<http://vocab.getty.edu/aat/300027262> <http://www.w3.org/2000/01/rdf-schema#label> "grant proposals"@en .
+<http://vocab.getty.edu/aat/300027262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027425> <http://www.w3.org/2000/01/rdf-schema#label> "dossiers administratifs"@fr .
+<http://vocab.getty.edu/aat/300027425> <http://www.w3.org/2000/01/rdf-schema#label> "administrative records"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-administratifs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027425> .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-administratifs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027428> <http://www.w3.org/2000/01/rdf-schema#label> "bulletin de vote"@fr .
+<http://vocab.getty.edu/aat/300027428> <http://www.w3.org/2000/01/rdf-schema#label> "ballots"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin-de-vote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin-de-vote> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027428> .
+
+<http://vocab.getty.edu/aat/300027515> <http://www.w3.org/2000/01/rdf-schema#label> "checkbooks"@en .
+<http://vocab.getty.edu/aat/300027515> <http://www.w3.org/2000/01/rdf-schema#label> "carnet de chèques"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/carnet-de-ch-ques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carnet-de-ch-ques> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027515> .
+<http://vocab.getty.edu/aat/300027515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027764> <http://www.w3.org/2000/01/rdf-schema#label> "wills"@en .
+<http://vocab.getty.edu/aat/300027764> <http://www.w3.org/2000/01/rdf-schema#label> "testament"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/testament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/testament> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027764> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/d-crets> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027845> .
+<http://vocab.getty.edu/aat/300027845> <http://www.w3.org/2000/01/rdf-schema#label> "décrets"@fr .
+<http://vocab.getty.edu/aat/300027845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/d-crets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027845> <http://www.w3.org/2000/01/rdf-schema#label> "codes (records, regulations)"@en .
+
+<http://vocab.getty.edu/aat/300028509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028509> <http://www.w3.org/2000/01/rdf-schema#label> "diazotypes (copies)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/diazotypes> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028509> .
+<http://data.duchamparchives.org/cp/archive/genreform/diazotypes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028509> <http://www.w3.org/2000/01/rdf-schema#label> "diazotypes"@fr .
+
+<http://vocab.getty.edu/aat/300041340> <http://www.w3.org/2000/01/rdf-schema#label> "engravings (prints)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/gravure> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041340> .
+<http://vocab.getty.edu/aat/300041340> <http://www.w3.org/2000/01/rdf-schema#label> "gravure"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/gravure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/lithographies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041379> <http://www.w3.org/2000/01/rdf-schema#label> "lithographies"@fr .
+<http://vocab.getty.edu/aat/300041379> <http://www.w3.org/2000/01/rdf-schema#label> "lithographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/lithographies> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041379> .
+<http://vocab.getty.edu/aat/300041379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/chemises-containers-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300197602> <http://www.w3.org/2000/01/rdf-schema#label> "chemises (containers)"@fr .
+<http://vocab.getty.edu/aat/300197602> <http://www.w3.org/2000/01/rdf-schema#label> "folders (containers)"@en .
+<http://vocab.getty.edu/aat/300197602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/chemises-containers-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300197602> .
+
+<http://vocab.getty.edu/aat/300404588> <http://www.w3.org/2000/01/rdf-schema#label> "printed materials (object genre)"@en .
+<http://vocab.getty.edu/aat/300404588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300404588> <http://www.w3.org/2000/01/rdf-schema#label> "imprimés"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/imprim-s> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404588> .
+<http://data.duchamparchives.org/cp/archive/genreform/imprim-s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/radiographie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/2000/01/rdf-schema#label> "radiographie"@fr .
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/2000/01/rdf-schema#label> "x-radiographs"@en .
+<http://vocab.getty.edu/aat/300419325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/radiographie> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300419325> .
+
+<http://vocab.getty.edu/aat/300027261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027261> <http://www.w3.org/2000/01/rdf-schema#label> "propositions"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/propositions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/propositions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027261> .
+<http://vocab.getty.edu/aat/300027261> <http://www.w3.org/2000/01/rdf-schema#label> "proposals"@en .
+
+<http://vocab.getty.edu/aat/300136681> <http://www.w3.org/2000/01/rdf-schema#label> "shipping records"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/registre-d-exp-dition> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300136681> .
+<http://vocab.getty.edu/aat/300136681> <http://www.w3.org/2000/01/rdf-schema#label> "registre d'expédition"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/registre-d-exp-dition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300136681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300162872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300162872> <http://www.w3.org/2000/01/rdf-schema#label> "stéréogramme"@fr .
+<http://vocab.getty.edu/aat/300162872> <http://www.w3.org/2000/01/rdf-schema#label> "stereoscopic photographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/st-r-ogramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/st-r-ogramme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300162872> .
+
+<http://vocab.getty.edu/aat/300265639> <http://www.w3.org/2000/01/rdf-schema#label> "research notes"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/notes-de-recherche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/notes-de-recherche> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300265639> .
+<http://vocab.getty.edu/aat/300265639> <http://www.w3.org/2000/01/rdf-schema#label> "notes de recherche"@fr .
+<http://vocab.getty.edu/aat/300265639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300311679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300311679> <http://www.w3.org/2000/01/rdf-schema#label> "bulletins"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300311679> <http://www.w3.org/2000/01/rdf-schema#label> "bulletin"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300311679> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/description-biograpique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300404016> <http://www.w3.org/2000/01/rdf-schema#label> "description biograpique"@fr .
+<http://vocab.getty.edu/aat/300404016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/description-biograpique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404016> .
+<http://vocab.getty.edu/aat/300404016> <http://www.w3.org/2000/01/rdf-schema#label> "biographical sketches"@en .
+
+<http://vocab.getty.edu/aat/300027371> <http://www.w3.org/2000/01/rdf-schema#label> "tax records"@en .
+<http://vocab.getty.edu/aat/300027371> <http://www.w3.org/2000/01/rdf-schema#label> "dossiers fiscaux"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-fiscaux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dossiers-fiscaux> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027371> .
+<http://vocab.getty.edu/aat/300027371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/2000/01/rdf-schema#label> "drawings (visual works)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/dessin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dessin> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033973> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/2000/01/rdf-schema#label> "DESSIN"@fr .
+
+<http://vocab.getty.edu/aat/300417367> <http://www.w3.org/2000/01/rdf-schema#label> "ANNONCE DE PUBLICATION"@fr .
+<http://vocab.getty.edu/aat/300417367> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition announcements"@en .
+<http://vocab.getty.edu/aat/300417367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/annonce-de-publication> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300417367> .
+<http://data.duchamparchives.org/cp/archive/genreform/annonce-de-publication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300025103> <http://www.w3.org/2000/01/rdf-schema#label> "artists (visual artists)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/artistes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025103> <http://www.w3.org/2000/01/rdf-schema#label> "artistes"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/artistes> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025103> .
+
+<http://vocab.getty.edu/aat/300025574> <http://www.w3.org/2000/01/rdf-schema#label> "maison d'édition"@fr .
+<http://vocab.getty.edu/aat/300025574> <http://www.w3.org/2000/01/rdf-schema#label> "publishers"@en .
+<http://vocab.getty.edu/aat/300025574> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/maison-d-dition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/maison-d-dition> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025574> .
+
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "photographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/photographie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/photographie> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300046300> .
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "PHOTOGRAPHIE"@fr .
+
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/inscriptions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions"@fr .
+<http://vocab.getty.edu/aat/300028702> <http://www.w3.org/2000/01/rdf-schema#label> "inscriptions"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/inscriptions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028702> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/peinture> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033618> .
+<http://data.duchamparchives.org/cp/archive/genreform/peinture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "paintings (visual works)"@en .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "Peinture"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/documents> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300375748> .
+<http://data.duchamparchives.org/cp/archive/genreform/documents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300375748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300375748> <http://www.w3.org/2000/01/rdf-schema#label> "archives (groupings)"@en .
+<http://vocab.getty.edu/aat/300375748> <http://www.w3.org/2000/01/rdf-schema#label> "documents"@fr .
+
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/2000/01/rdf-schema#label> "sculpture (œuvres visuelles)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/sculpture-uvres-visuelles-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047090> .
+<http://data.duchamparchives.org/cp/archive/genreform/sculpture-uvres-visuelles-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/2000/01/rdf-schema#label> "sculpture (visual works)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/documents-d-exposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300048720> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition records"@en .
+<http://vocab.getty.edu/aat/300048720> <http://www.w3.org/2000/01/rdf-schema#label> "documents d'exposition"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/documents-d-exposition> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300048720> .
+<http://vocab.getty.edu/aat/300048720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/item> <http://www.w3.org/2000/01/rdf-schema#label> "item"@fr .
+<http://vocab.getty.edu/aat/item> <http://www.w3.org/2000/01/rdf-schema#label> "item"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/item> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/item> .
+<http://vocab.getty.edu/aat/item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/item> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/creator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/creator> <http://www.w3.org/2000/01/rdf-schema#label> "créateur"@fr .
+<http://vocab.getty.edu/aat/creator> <http://www.w3.org/2000/01/rdf-schema#label> "creator"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/cr-ateur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/creator> .
+<http://data.duchamparchives.org/cp/archive/genreform/cr-ateur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/coupure-de-presse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/coupure-de-presse> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026867> .
+<http://vocab.getty.edu/aat/300026867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026867> <http://www.w3.org/2000/01/rdf-schema#label> "clippings (information artifacts)"@en .
+<http://vocab.getty.edu/aat/300026867> <http://www.w3.org/2000/01/rdf-schema#label> "COUPURE DE PRESSE"@fr .
+
+<http://vocab.getty.edu/aat/donor> <http://www.w3.org/2000/01/rdf-schema#label> "donor"@en .
+<http://vocab.getty.edu/aat/donor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/donor> <http://www.w3.org/2000/01/rdf-schema#label> "donateur"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/donateur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/donor> .
+<http://data.duchamparchives.org/cp/archive/genreform/donateur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300028881> <http://www.w3.org/2000/01/rdf-schema#label> "ephemera (general object genre)"@en .
+<http://vocab.getty.edu/aat/300028881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/-phem-ra-g-n-ral-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028881> .
+<http://data.duchamparchives.org/cp/archive/genreform/-phem-ra-g-n-ral-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028881> <http://www.w3.org/2000/01/rdf-schema#label> "épheméra (général)"@fr .
+
+<http://vocab.getty.edu/aat/300026877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/correspondance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026877> <http://www.w3.org/2000/01/rdf-schema#label> "correspondance"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/correspondance> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026877> .
+<http://vocab.getty.edu/aat/300026877> <http://www.w3.org/2000/01/rdf-schema#label> "correspondence"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/correspondant> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/correspondent> .
+<http://data.duchamparchives.org/cp/archive/genreform/correspondant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/correspondent> <http://www.w3.org/2000/01/rdf-schema#label> "correspondant"@fr .
+<http://vocab.getty.edu/aat/correspondent> <http://www.w3.org/2000/01/rdf-schema#label> "correspondent"@en .
+<http://vocab.getty.edu/aat/correspondent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/artiste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artiste"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/artiste> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/artist> .
+<http://vocab.getty.edu/aat/artist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/artist> <http://www.w3.org/2000/01/rdf-schema#label> "artist"@en .
+
+<http://vocab.getty.edu/aat/object> <http://www.w3.org/2000/01/rdf-schema#label> "objet"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/objet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/objet> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/object> .
+<http://vocab.getty.edu/aat/object> <http://www.w3.org/2000/01/rdf-schema#label> "object"@en .
+<http://vocab.getty.edu/aat/object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/designer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/designer> <http://www.w3.org/2000/01/rdf-schema#label> "designer"@fr .
+<http://vocab.getty.edu/aat/designer> <http://www.w3.org/2000/01/rdf-schema#label> "designer"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/designer> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/designer> .
+<http://vocab.getty.edu/aat/designer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/recipient> <http://www.w3.org/2000/01/rdf-schema#label> "recipient"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/destinataire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/recipient> .
+<http://vocab.getty.edu/aat/recipient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/destinataire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/recipient> <http://www.w3.org/2000/01/rdf-schema#label> "destinataire"@fr .
+
+<http://vocab.getty.edu/aat/300026906> <http://www.w3.org/2000/01/rdf-schema#label> "mémorandum"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/m-morandum> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026906> .
+<http://data.duchamparchives.org/cp/archive/genreform/m-morandum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026906> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026906> <http://www.w3.org/2000/01/rdf-schema#label> "memorandums"@en .
+
+<http://vocab.getty.edu/aat/300027200> <http://www.w3.org/2000/01/rdf-schema#label> "NOTE"@fr .
+<http://vocab.getty.edu/aat/300027200> <http://www.w3.org/2000/01/rdf-schema#label> "notes (documents)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/note> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027200> .
+<http://vocab.getty.edu/aat/300027200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/note> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/2000/01/rdf-schema#label> "invoices"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/factures> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027568> .
+<http://data.duchamparchives.org/cp/archive/genreform/factures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/2000/01/rdf-schema#label> "factures"@fr .
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026395> <http://www.w3.org/2000/01/rdf-schema#label> "manuel"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/manuel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/manuel> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026395> .
+<http://vocab.getty.edu/aat/300026395> <http://www.w3.org/2000/01/rdf-schema#label> "manuals (instructional materials)"@en .
+<http://vocab.getty.edu/aat/300026395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300404753> <http://www.w3.org/2000/01/rdf-schema#label> "floor plans (form attributes)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/plan-de-niveau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300404753> <http://www.w3.org/2000/01/rdf-schema#label> "plan de niveau"@fr .
+<http://vocab.getty.edu/aat/300404753> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/plan-de-niveau> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404753> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/croquis> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015617> .
+<http://data.duchamparchives.org/cp/archive/genreform/croquis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300015617> <http://www.w3.org/2000/01/rdf-schema#label> "sketches"@en .
+<http://vocab.getty.edu/aat/300015617> <http://www.w3.org/2000/01/rdf-schema#label> "CROQUIS"@fr .
+<http://vocab.getty.edu/aat/300015617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/proc-s-verbal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027440> <http://www.w3.org/2000/01/rdf-schema#label> "procès-verbal"@fr .
+<http://vocab.getty.edu/aat/300027440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027440> <http://www.w3.org/2000/01/rdf-schema#label> "minutes (administrative records)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/proc-s-verbal> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027440> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/t-l-gramme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026909> .
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/2000/01/rdf-schema#label> "telegrams"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/t-l-gramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/2000/01/rdf-schema#label> "télégramme"@fr .
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027426> <http://www.w3.org/2000/01/rdf-schema#label> "agenda"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/agenda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027426> <http://www.w3.org/2000/01/rdf-schema#label> "agendas (administrative records)"@en .
+<http://vocab.getty.edu/aat/300027426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/agenda> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027426> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/-preuves-photographiques> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127104> .
+<http://vocab.getty.edu/aat/300127104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/-preuves-photographiques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127104> <http://www.w3.org/2000/01/rdf-schema#label> "épreuves photographiques"@fr .
+<http://vocab.getty.edu/aat/300127104> <http://www.w3.org/2000/01/rdf-schema#label> "photographic prints"@en .
+
+<http://vocab.getty.edu/aat/300027804> <http://www.w3.org/2000/01/rdf-schema#label> "document de douane"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/document-de-douane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/document-de-douane> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027804> .
+<http://vocab.getty.edu/aat/300027804> <http://www.w3.org/2000/01/rdf-schema#label> "customs records"@en .
+
+<http://vocab.getty.edu/aat/300128695> <http://www.w3.org/2000/01/rdf-schema#label> "gelatin silver prints"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/-preuve-la-g-latine-argentique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300128695> .
+<http://data.duchamparchives.org/cp/archive/genreform/-preuve-la-g-latine-argentique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300128695> <http://www.w3.org/2000/01/rdf-schema#label> "épreuve à la gélatine argentique"@fr .
+<http://vocab.getty.edu/aat/300128695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "articles"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/article> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300048715> .
+<http://data.duchamparchives.org/cp/archive/genreform/article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300048715> <http://www.w3.org/2000/01/rdf-schema#label> "article"@fr .
+
+<http://vocab.getty.edu/aat/300136847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300136847> <http://www.w3.org/2000/01/rdf-schema#label> "photocopie"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/photocopie> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300136847> .
+<http://data.duchamparchives.org/cp/archive/genreform/photocopie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300136847> <http://www.w3.org/2000/01/rdf-schema#label> "photocopies"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/sorties-papiers> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028467> .
+<http://vocab.getty.edu/aat/300028467> <http://www.w3.org/2000/01/rdf-schema#label> "sorties papiers"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/sorties-papiers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028467> <http://www.w3.org/2000/01/rdf-schema#label> "printouts"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/intervieweur> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/interviewer> .
+<http://vocab.getty.edu/aat/interviewer> <http://www.w3.org/2000/01/rdf-schema#label> "intervieweur"@fr .
+<http://vocab.getty.edu/aat/interviewer> <http://www.w3.org/2000/01/rdf-schema#label> "interviewer"@en .
+<http://vocab.getty.edu/aat/interviewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/intervieweur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300133025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300133025> <http://www.w3.org/2000/01/rdf-schema#label> "works of art"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/-uvre-d-art> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300133025> <http://www.w3.org/2000/01/rdf-schema#label> "œuvre d'art"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/-uvre-d-art> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300133025> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/brochure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/brochure> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300248280> .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/2000/01/rdf-schema#label> "brochure"@fr .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/2000/01/rdf-schema#label> "brochures"@en .
+
+<http://vocab.getty.edu/aat/300197601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300197601> <http://www.w3.org/2000/01/rdf-schema#label> "envelopes"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/enveloppe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300197601> <http://www.w3.org/2000/01/rdf-schema#label> "ENVELOPPE"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/enveloppe> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300197601> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/communiqu-s-de-presse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/communiqu-s-de-presse> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026437> .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/2000/01/rdf-schema#label> "communiqués de presse"@fr .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/2000/01/rdf-schema#label> "press releases"@en .
+
+<http://vocab.getty.edu/aat/exhibition_organizer> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition organizer"@en .
+<http://vocab.getty.edu/aat/exhibition_organizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/exhibition_organizer> <http://www.w3.org/2000/01/rdf-schema#label> "organisateur d'éxposition"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/organisateur-d-xposition> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/exhibition_organizer> .
+<http://data.duchamparchives.org/cp/archive/genreform/organisateur-d-xposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/transparent> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127478> .
+<http://vocab.getty.edu/aat/300127478> <http://www.w3.org/2000/01/rdf-schema#label> "transparencies"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/transparent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127478> <http://www.w3.org/2000/01/rdf-schema#label> "transparent"@fr .
+
+<http://vocab.getty.edu/aat/300041273> <http://www.w3.org/2000/01/rdf-schema#label> "gravures (général, œuvres visuelles)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/gravures-g-n-ral-uvres-visuelles-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041273> .
+<http://vocab.getty.edu/aat/300041273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041273> <http://www.w3.org/2000/01/rdf-schema#label> "prints (visual works)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/gravures-g-n-ral-uvres-visuelles-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/conf-rence> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026673> .
+<http://data.duchamparchives.org/cp/archive/genreform/conf-rence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026673> <http://www.w3.org/2000/01/rdf-schema#label> "conférence"@fr .
+<http://vocab.getty.edu/aat/300026673> <http://www.w3.org/2000/01/rdf-schema#label> "lectures"@en .
+
+<http://vocab.getty.edu/aat/300027341> <http://www.w3.org/2000/01/rdf-schema#label> "album de coupures"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/album-de-coupures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027341> <http://www.w3.org/2000/01/rdf-schema#label> "scrapbooks"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/album-de-coupures> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027341> .
+<http://vocab.getty.edu/aat/300027341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027418> <http://www.w3.org/2000/01/rdf-schema#label> "contrat de mariage"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/contrat-de-mariage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027418> <http://www.w3.org/2000/01/rdf-schema#label> "marriage certificates"@en .
+<http://vocab.getty.edu/aat/300027418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/contrat-de-mariage> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027418> .
+
+<http://vocab.getty.edu/aat/300027850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/document-judiciaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027850> <http://www.w3.org/2000/01/rdf-schema#label> "judicial records"@en .
+<http://vocab.getty.edu/aat/300027850> <http://www.w3.org/2000/01/rdf-schema#label> "document judiciaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/document-judiciaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027850> .
+
+<http://vocab.getty.edu/aat/300049060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300049060> <http://www.w3.org/2000/01/rdf-schema#label> "forms (documents)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/formulaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300049060> .
+<http://vocab.getty.edu/aat/300049060> <http://www.w3.org/2000/01/rdf-schema#label> "formulaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/formulaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026392> <http://www.w3.org/2000/01/rdf-schema#label> "interviews"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/entretien> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026392> <http://www.w3.org/2000/01/rdf-schema#label> "ENTRETIEN"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/entretien> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026392> .
+<http://vocab.getty.edu/aat/300026392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/2000/01/rdf-schema#label> "catalogue de vente"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026074> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/2000/01/rdf-schema#label> "sale catalogues"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/2000/01/rdf-schema#label> "catalogue de vente"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogue-de-vente> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026074> .
+<http://vocab.getty.edu/aat/300026074> <http://www.w3.org/2000/01/rdf-schema#label> "sales catalogs"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/avis-documents-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026707> .
+<http://vocab.getty.edu/aat/300026707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/avis-documents-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026707> <http://www.w3.org/2000/01/rdf-schema#label> "announcements"@en .
+<http://vocab.getty.edu/aat/300026707> <http://www.w3.org/2000/01/rdf-schema#label> "avis (documents)"@fr .
+
+<http://vocab.getty.edu/aat/300026799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-d-identit-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026799> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-d-identit-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026799> <http://www.w3.org/2000/01/rdf-schema#label> "identity cards"@en .
+<http://vocab.getty.edu/aat/300026799> <http://www.w3.org/2000/01/rdf-schema#label> "carte d'identité"@fr .
+
+<http://vocab.getty.edu/aat/300027392> <http://www.w3.org/2000/01/rdf-schema#label> "passeports"@fr .
+<http://vocab.getty.edu/aat/300027392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027392> <http://www.w3.org/2000/01/rdf-schema#label> "passports"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/passeports> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027392> .
+<http://data.duchamparchives.org/cp/archive/genreform/passeports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027395> <http://www.w3.org/2000/01/rdf-schema#label> "visa d'entrée"@fr .
+<http://vocab.getty.edu/aat/300027395> <http://www.w3.org/2000/01/rdf-schema#label> "visas"@en .
+<http://vocab.getty.edu/aat/300027395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/visa-d-entr-e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/visa-d-entr-e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027395> .
+
+<http://vocab.getty.edu/aat/300027822> <http://www.w3.org/2000/01/rdf-schema#label> "document militaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/document-militaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027822> <http://www.w3.org/2000/01/rdf-schema#label> "military records"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/document-militaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027822> .
+<http://vocab.getty.edu/aat/300027822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/lithographie-offset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300192896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300192896> <http://www.w3.org/2000/01/rdf-schema#label> "offset lithographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/lithographie-offset> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300192896> .
+<http://vocab.getty.edu/aat/300192896> <http://www.w3.org/2000/01/rdf-schema#label> "lithographie offset"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/billet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027381> <http://www.w3.org/2000/01/rdf-schema#label> "tickets"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/billet> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027381> .
+<http://vocab.getty.edu/aat/300027381> <http://www.w3.org/2000/01/rdf-schema#label> "BILLET"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/liste> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027119> .
+<http://vocab.getty.edu/aat/300027119> <http://www.w3.org/2000/01/rdf-schema#label> "liste"@fr .
+<http://vocab.getty.edu/aat/300027119> <http://www.w3.org/2000/01/rdf-schema#label> "lists (document genres)"@en .
+<http://vocab.getty.edu/aat/300027119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/liste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin-d-information> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/bulletin-d-information> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026652> .
+<http://vocab.getty.edu/aat/300026652> <http://www.w3.org/2000/01/rdf-schema#label> "bulletin d'information"@fr .
+<http://vocab.getty.edu/aat/300026652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026652> <http://www.w3.org/2000/01/rdf-schema#label> "newsletters"@en .
+
+<http://vocab.getty.edu/aat/300027083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027083> <http://www.w3.org/2000/01/rdf-schema#label> "invitations"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carton-d-invitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027083> <http://www.w3.org/2000/01/rdf-schema#label> "CARTON D'INVITATION"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/carton-d-invitation> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027083> .
+
+<http://vocab.getty.edu/aat/300404387> <http://www.w3.org/2000/01/rdf-schema#label> "créer"@fr .
+<http://vocab.getty.edu/aat/300404387> <http://www.w3.org/2000/01/rdf-schema#label> "creating (artistic activity)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/cr-er> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404387> .
+<http://vocab.getty.edu/aat/300404387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/cr-er> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027399> <http://www.w3.org/2000/01/rdf-schema#label> "birth certificates"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/acte-de-naissance> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027399> .
+<http://vocab.getty.edu/aat/300027399> <http://www.w3.org/2000/01/rdf-schema#label> "acte de naissance"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/acte-de-naissance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/re-u> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027573> .
+<http://data.duchamparchives.org/cp/archive/genreform/re-u> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/2000/01/rdf-schema#label> "reçu"@fr .
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/2000/01/rdf-schema#label> "receipts (financial records)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/photographie-de-passeport> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300134693> .
+<http://data.duchamparchives.org/cp/archive/genreform/photographie-de-passeport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300134693> <http://www.w3.org/2000/01/rdf-schema#label> "photographie de passeport"@fr .
+<http://vocab.getty.edu/aat/300134693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300134693> <http://www.w3.org/2000/01/rdf-schema#label> "passport photographs"@en .
+
+<http://vocab.getty.edu/aat/300015643> <http://www.w3.org/2000/01/rdf-schema#label> "reproductions (derivative objects)"@en .
+<http://vocab.getty.edu/aat/300015643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/reproductions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/reproductions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015643> .
+<http://vocab.getty.edu/aat/300015643> <http://www.w3.org/2000/01/rdf-schema#label> "reproductions"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-no-l> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026782> <http://www.w3.org/2000/01/rdf-schema#label> "Christmas cards"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-no-l> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026782> .
+<http://vocab.getty.edu/aat/300026782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026782> <http://www.w3.org/2000/01/rdf-schema#label> "carte de Noël"@fr .
+
+<http://vocab.getty.edu/aat/300027002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027002> <http://www.w3.org/2000/01/rdf-schema#label> "application forms"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/formulaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027002> .
+<http://vocab.getty.edu/aat/300027002> <http://www.w3.org/2000/01/rdf-schema#label> "formulaire"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/formulaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027045> <http://www.w3.org/2000/01/rdf-schema#label> "inventories"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/inventaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/inventaire> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027045> .
+<http://vocab.getty.edu/aat/300027045> <http://www.w3.org/2000/01/rdf-schema#label> "inventaire"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/document-d-immigration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027808> <http://www.w3.org/2000/01/rdf-schema#label> "immigration records"@en .
+<http://vocab.getty.edu/aat/300027808> <http://www.w3.org/2000/01/rdf-schema#label> "document d'immigration"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/document-d-immigration> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027808> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-membre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-de-membre> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300255378> .
+<http://vocab.getty.edu/aat/300255378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300255378> <http://www.w3.org/2000/01/rdf-schema#label> "carte de membre"@fr .
+<http://vocab.getty.edu/aat/300255378> <http://www.w3.org/2000/01/rdf-schema#label> "membership cards"@en .
+
+<http://vocab.getty.edu/aat/300256059> <http://www.w3.org/2000/01/rdf-schema#label> "admit cards"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-d-admission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-d-admission> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300256059> .
+<http://vocab.getty.edu/aat/300256059> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300256059> <http://www.w3.org/2000/01/rdf-schema#label> "carte d'admission"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/fascicule-de-mobilisation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300256179> <http://www.w3.org/2000/01/rdf-schema#label> "fascicule de mobilisation"@fr .
+<http://vocab.getty.edu/aat/300256179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300256179> <http://www.w3.org/2000/01/rdf-schema#label> "draft cards"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/fascicule-de-mobilisation> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300256179> .
+
+<http://vocab.getty.edu/aat/300404676> <http://www.w3.org/2000/01/rdf-schema#label> "dessins à l'encre"@fr .
+<http://vocab.getty.edu/aat/300404676> <http://www.w3.org/2000/01/rdf-schema#label> "pen and ink drawings"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/dessins-l-encre> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300404676> .
+<http://vocab.getty.edu/aat/300404676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dessins-l-encre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026741> <http://www.w3.org/2000/01/rdf-schema#label> "calendriers"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/calendriers> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026741> .
+<http://data.duchamparchives.org/cp/archive/genreform/calendriers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026741> <http://www.w3.org/2000/01/rdf-schema#label> "calendars (documents)"@en .
+
+<http://vocab.getty.edu/aat/300248231> <http://www.w3.org/2000/01/rdf-schema#label> "représenté"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/repr-sent-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300248231> .
+<http://data.duchamparchives.org/cp/archive/genreform/repr-sent-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300248231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300248231> <http://www.w3.org/2000/01/rdf-schema#label> "depicted"@en .
+
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-des-xpositions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026096> .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-des-xpositions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues des éxpositions"@fr .
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition catalogs"@en .
+
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-des-xpositions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026096> .
+<http://data.duchamparchives.org/cp/archive/genreform/catalogues-des-xpositions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "catalogues des éxpositions"@fr .
+<http://vocab.getty.edu/aat/300026096> <http://www.w3.org/2000/01/rdf-schema#label> "exhibition catalogues"@en .
+
+<http://vocab.getty.edu/aat/300189226> <http://www.w3.org/2000/01/rdf-schema#label> "writings (documents)"@en .
+<http://vocab.getty.edu/aat/300189226> <http://www.w3.org/2000/01/rdf-schema#label> "écritures"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/-critures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/-critures> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300189226> .
+<http://vocab.getty.edu/aat/300189226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026487> <http://www.w3.org/2000/01/rdf-schema#label> "scripts (documents)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/scripts> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026487> .
+<http://vocab.getty.edu/aat/300026487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026487> <http://www.w3.org/2000/01/rdf-schema#label> "scripts"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/scripts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027628> <http://www.w3.org/2000/01/rdf-schema#label> "agreements"@en .
+<http://vocab.getty.edu/aat/300027628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/accord> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027628> .
+<http://vocab.getty.edu/aat/300027628> <http://www.w3.org/2000/01/rdf-schema#label> "accord"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/accord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/photographe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300025687> <http://www.w3.org/2000/01/rdf-schema#label> "photographers"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/photographe> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300025687> .
+<http://vocab.getty.edu/aat/300025687> <http://www.w3.org/2000/01/rdf-schema#label> "photographe"@fr .
+<http://vocab.getty.edu/aat/300025687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/2000/01/rdf-schema#label> "periodicals"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/p-riodique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026657> .
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/2000/01/rdf-schema#label> "périodique"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/p-riodique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026727> <http://www.w3.org/2000/01/rdf-schema#label> "estimates"@en .
+<http://vocab.getty.edu/aat/300026727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/estimation> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026727> .
+<http://data.duchamparchives.org/cp/archive/genreform/estimation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026727> <http://www.w3.org/2000/01/rdf-schema#label> "estimation"@fr .
+
+<http://vocab.getty.edu/aat/300015387> <http://www.w3.org/2000/01/rdf-schema#label> "diagramme"@fr .
+<http://vocab.getty.edu/aat/300015387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300015387> <http://www.w3.org/2000/01/rdf-schema#label> "diagrams"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/diagramme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300015387> .
+<http://data.duchamparchives.org/cp/archive/genreform/diagramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300026931> <http://www.w3.org/2000/01/rdf-schema#label> "drafts (documents)"@en .
+<http://vocab.getty.edu/aat/300026931> <http://www.w3.org/2000/01/rdf-schema#label> "brouillon"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/brouillon> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026931> .
+<http://vocab.getty.edu/aat/300026931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/brouillon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300028469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/copies-typographique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028469> .
+<http://vocab.getty.edu/aat/300028469> <http://www.w3.org/2000/01/rdf-schema#label> "letterpress copies"@en .
+<http://vocab.getty.edu/aat/300028469> <http://www.w3.org/2000/01/rdf-schema#label> "copies typographique"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/copies-typographique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300028731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/ex-libris> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300028731> .
+<http://data.duchamparchives.org/cp/archive/genreform/ex-libris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300028731> <http://www.w3.org/2000/01/rdf-schema#label> "bookplates"@en .
+<http://vocab.getty.edu/aat/300028731> <http://www.w3.org/2000/01/rdf-schema#label> "ex-libris"@fr .
+
+<http://vocab.getty.edu/aat/300127131> <http://www.w3.org/2000/01/rdf-schema#label> "carte cabinet"@fr .
+<http://vocab.getty.edu/aat/300127131> <http://www.w3.org/2000/01/rdf-schema#label> "cabinet photographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-cabinet> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127131> .
+<http://vocab.getty.edu/aat/300127131> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-cabinet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300134877> <http://www.w3.org/2000/01/rdf-schema#label> "impression à transfer de diffusion"@fr .
+<http://vocab.getty.edu/aat/300134877> <http://www.w3.org/2000/01/rdf-schema#label> "diffusion transfer prints"@en .
+<http://vocab.getty.edu/aat/300134877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/impression-transfer-de-diffusion> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300134877> .
+<http://data.duchamparchives.org/cp/archive/genreform/impression-transfer-de-diffusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/personne-interview-e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/interviewee> <http://www.w3.org/2000/01/rdf-schema#label> "personne interviewée"@fr .
+<http://vocab.getty.edu/aat/interviewee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/interviewee> <http://www.w3.org/2000/01/rdf-schema#label> "interviewee"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/personne-interview-e> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/interviewee> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/glissade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/glissade> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300128371> .
+<http://vocab.getty.edu/aat/300128371> <http://www.w3.org/2000/01/rdf-schema#label> "slides (photographs)"@en .
+<http://vocab.getty.edu/aat/300128371> <http://www.w3.org/2000/01/rdf-schema#label> "glissade"@fr .
+<http://vocab.getty.edu/aat/300128371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300252008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300252008> <http://www.w3.org/2000/01/rdf-schema#label> "chronologies (lists)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/chronologies-lists-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/chronologies-lists-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300252008> .
+<http://vocab.getty.edu/aat/300252008> <http://www.w3.org/2000/01/rdf-schema#label> "chronologies (lists)"@en .
+
+<http://vocab.getty.edu/aat/300026767> <http://www.w3.org/2000/01/rdf-schema#label> "carte professionnelle"@fr .
+<http://vocab.getty.edu/aat/300026767> <http://www.w3.org/2000/01/rdf-schema#label> "business cards"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-professionnelle> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026767> .
+<http://vocab.getty.edu/aat/300026767> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-professionnelle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300041424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041424> <http://www.w3.org/2000/01/rdf-schema#label> "impression photomécanique"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/impression-photom-canique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041424> <http://www.w3.org/2000/01/rdf-schema#label> "photomechanical prints"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/impression-photom-canique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041424> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/copies> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300041486> .
+<http://vocab.getty.edu/aat/300041486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300041486> <http://www.w3.org/2000/01/rdf-schema#label> "copies"@fr .
+<http://vocab.getty.edu/aat/300041486> <http://www.w3.org/2000/01/rdf-schema#label> "stats (copies)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/copies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300127141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/cartes-de-visite-photographies-> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127141> <http://www.w3.org/2000/01/rdf-schema#label> "cartes-de-visite (card photographs)"@en .
+<http://vocab.getty.edu/aat/300127141> <http://www.w3.org/2000/01/rdf-schema#label> "cartes-de-visite (photographies)"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/cartes-de-visite-photographies-> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127141> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/n-gatifs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127173> <http://www.w3.org/2000/01/rdf-schema#label> "négatifs"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/n-gatifs> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300127173> .
+<http://vocab.getty.edu/aat/300127173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300127173> <http://www.w3.org/2000/01/rdf-schema#label> "negatives (photographs)"@en .
+
+<http://data.duchamparchives.org/cp/archive/genreform/carte-postale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/carte-postale> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026816> .
+<http://vocab.getty.edu/aat/300026816> <http://www.w3.org/2000/01/rdf-schema#label> "postcards"@en .
+<http://vocab.getty.edu/aat/300026816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026816> <http://www.w3.org/2000/01/rdf-schema#label> "CARTE POSTALE"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/certificat> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026841> .
+<http://vocab.getty.edu/aat/300026841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026841> <http://www.w3.org/2000/01/rdf-schema#label> "certificat"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/certificat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026841> <http://www.w3.org/2000/01/rdf-schema#label> "certificates"@en .
+
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/2000/01/rdf-schema#label> "TELEGRAMME"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/telegramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/telegramme> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026909> .
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/2000/01/rdf-schema#label> "telegrams"@en .
+<http://vocab.getty.edu/aat/300026909> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/papier-a-en-tete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/papier-a-en-tete> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300193998> .
+<http://vocab.getty.edu/aat/300193998> <http://www.w3.org/2000/01/rdf-schema#label> "PAPIER A EN-TETE"@fr .
+<http://vocab.getty.edu/aat/300193998> <http://www.w3.org/2000/01/rdf-schema#label> "letterheads"@en .
+<http://vocab.getty.edu/aat/300193998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/recepisse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/2000/01/rdf-schema#label> "receipts (financial records)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/recepisse> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027573> .
+<http://vocab.getty.edu/aat/300027573> <http://www.w3.org/2000/01/rdf-schema#label> "RECEPISSE"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/communique-de-presse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/2000/01/rdf-schema#label> "press releases"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/communique-de-presse> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300026437> .
+<http://vocab.getty.edu/aat/300026437> <http://www.w3.org/2000/01/rdf-schema#label> "COMMUNIQUE DE PRESSE"@fr .
+
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/2000/01/rdf-schema#label> "PIECE COMPTABLE"@fr .
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/2000/01/rdf-schema#label> "invoices"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/piece-comptable> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300027568> .
+<http://data.duchamparchives.org/cp/archive/genreform/piece-comptable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300027568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/depliant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/2000/01/rdf-schema#label> "DEPLIANT"@fr .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300248280> <http://www.w3.org/2000/01/rdf-schema#label> "brochures"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/depliant> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300248280> .
+
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/2000/01/rdf-schema#label> "drawings (visual works)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/dessin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/dessin> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033973> .
+<http://vocab.getty.edu/aat/300033973> <http://www.w3.org/2000/01/rdf-schema#label> "Dessin"@fr .
+
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "photographs"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/photographie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/photographie> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300046300> .
+<http://vocab.getty.edu/aat/300046300> <http://www.w3.org/2000/01/rdf-schema#label> "Photographie"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/design-graphique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300054181> <http://www.w3.org/2000/01/rdf-schema#label> "Design graphique"@fr .
+<http://vocab.getty.edu/aat/300054181> <http://www.w3.org/2000/01/rdf-schema#label> "graphic design"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/design-graphique> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054181> .
+<http://vocab.getty.edu/aat/300054181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/not_entered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/not_entered> <http://www.w3.org/2000/01/rdf-schema#label> "Unclassified"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/domaine-non-saisi> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/not_entered> .
+<http://data.duchamparchives.org/cp/archive/genreform/domaine-non-saisi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/not_entered> <http://www.w3.org/2000/01/rdf-schema#label> "Domaine non saisi"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/peinture> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300033618> .
+<http://data.duchamparchives.org/cp/archive/genreform/peinture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "paintings (visual works)"@en .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300033618> <http://www.w3.org/2000/01/rdf-schema#label> "Peinture"@fr .
+
+<http://data.duchamparchives.org/cp/archive/genreform/sculpture> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300047090> .
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/2000/01/rdf-schema#label> "Sculpture"@fr .
+<http://vocab.getty.edu/aat/300047090> <http://www.w3.org/2000/01/rdf-schema#label> "sculpture (visual works)"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/sculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/cin-ma> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300054141> .
+<http://vocab.getty.edu/aat/300054141> <http://www.w3.org/2000/01/rdf-schema#label> "Cinéma"@fr .
+<http://data.duchamparchives.org/cp/archive/genreform/cin-ma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/300054141> <http://www.w3.org/2000/01/rdf-schema#label> "film (discipline)"@en .
+<http://vocab.getty.edu/aat/300054141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://data.duchamparchives.org/cp/archive/genreform/objet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/objet> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/300311889> .
+<http://vocab.getty.edu/aat/300311889> <http://www.w3.org/2000/01/rdf-schema#label> "objects"@en .
+<http://vocab.getty.edu/aat/300311889> <http://www.w3.org/2000/01/rdf-schema#label> "Objet"@fr .
+<http://vocab.getty.edu/aat/300311889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+
+<http://vocab.getty.edu/aat/3dwork> <http://www.w3.org/2000/01/rdf-schema#label> "Oeuvre en 3 dimensions"@fr .
+<http://vocab.getty.edu/aat/3dwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://vocab.getty.edu/aat/3dwork> <http://www.w3.org/2000/01/rdf-schema#label> "three-dimensional objects"@en .
+<http://data.duchamparchives.org/cp/archive/genreform/oeuvre-en-3-dimensions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E55_Type> .
+<http://data.duchamparchives.org/cp/archive/genreform/oeuvre-en-3-dimensions> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://vocab.getty.edu/aat/3dwork> .
+

@@ -1,0 +1,298 @@
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_005> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_006> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_008> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_008> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_008> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51461> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51461> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_012> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/object/51585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_012> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51585> .
+
+<http://data.duchamparchives.org/pma/object/51585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_014> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_014> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51585> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_017> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_017> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_017> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_018> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_018> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_018> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_019> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_019> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_019> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51448> .
+<http://data.duchamparchives.org/pma/object/51448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51405> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51429> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51446> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51461> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51656> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51530> .
+<http://data.duchamparchives.org/pma/object/51429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51439> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51474> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51585> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B013_F016_020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51693> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51630> .
+<http://data.duchamparchives.org/pma/object/51693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51630> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51693> .
+<http://data.duchamparchives.org/pma/object/51693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51496> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_004> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_005> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_006> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_008> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_009> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_011> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_012> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_013> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_014> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_015> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_016> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_018> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_019> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_020> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51585> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_023> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_024> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_025> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B023_F016_025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B033_F023_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B033_F023_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B033_F023_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B033_F023_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51485> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51474> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/object/51474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/object/51474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51485> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_002> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51474> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51485> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/53896> .
+<http://data.duchamparchives.org/pma/object/51507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/53896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51474> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_003> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51507> .
+<http://data.duchamparchives.org/pma/object/51485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_004> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51474> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_004> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51485> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_004> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/object/51474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_006> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/53896> .
+<http://data.duchamparchives.org/pma/object/53896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B044_F017_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_005> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51405> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_005> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51530> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_011> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_012> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_015> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_015> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/178645> .
+<http://data.duchamparchives.org/pma/object/178645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_016> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51451> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_016> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/178645> .
+<http://data.duchamparchives.org/pma/object/178645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B055_F006_016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51507> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_006> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_007> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_007> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_015> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B067_F012_017> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51507> .
+
+<http://data.duchamparchives.org/pma/object/54149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_010> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/54149> .
+
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_011> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B082_F012_012> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51449> .
+
+<http://data.duchamparchives.org/pma/object/51585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B116_F014_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51541> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B116_F014_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51552> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B116_F014_001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/object/51552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B116_F014_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51563> .
+<http://data.duchamparchives.org/pma/archive/component/MAR_B116_F014_001> <http://purl.org/dc/terms/relation> <http://data.duchamparchives.org/pma/object/51585> .
+<http://data.duchamparchives.org/pma/object/51563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object> .
+
