@@ -5,6 +5,6 @@ Duchamp Research Portal Documentation
 
 Here you can bulk download the data driving the DRP in JSON and RDF.
 
-You can also view additional documentation such as data models and a technologies overview <a href="http://drp.museumbrowse.org/">here</a>.
+For additional documentation such as data models and a technologies overview, please visit <a href="http://drp.museumbrowse.org/">http://drp.museumbrowse.org/</a>.
 
-Thank you to our partners, <a href="https://www.designforcontext.com/"Design for Context</a>, for their design and development work for the DRP.
+Thank you to our partners, <a href="https://www.designforcontext.com/">Design for Context</a>, for their design and development work for the DRP.
