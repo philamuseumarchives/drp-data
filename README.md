@@ -1,7 +1,7 @@
 # drp-data
 Duchamp Research Portal Documentation
 
-<a href="https://www.duchamparchives.org/">The Duchamp Research Portal (DRP)</a> is an online platform that aggregates a selection of digitized archival holdings and museum collections at three partner institutions (Philadelphia Museum of Art, Centre Ompidou, and the Association Marcel Duchamp) to make a significant portion of primary source materials related to Marcel Duchamp accessible and discoverable through a single interface.
+<a href="https://www.duchamparchives.org/">The Duchamp Research Portal (DRP)</a> is an online platform that aggregates a selection of digitized archival holdings and museum collections at three partner institutions (Philadelphia Museum of Art, Centre Pompidou, and the Association Marcel Duchamp) to make a significant portion of primary source materials related to Marcel Duchamp accessible and discoverable through a single interface.
 
 Here you can bulk download the data driving the DRP in JSON and RDF.
 
