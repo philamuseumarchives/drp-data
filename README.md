@@ -5,6 +5,8 @@ Duchamp Research Portal Documentation
 
 Here you can bulk download the data driving the DRP in JSON and RDF.
 
+For some guidance on how to navigate the DRP, view our <a href="https://github.com/philamuseumarchives/drp-data/blob/master/DRP_HowTo.pdf">How To guide</a>.
+
 For additional documentation such as data models and a technologies overview, please visit <a href="http://drp.museumbrowse.org/">http://drp.museumbrowse.org/</a>.
 
 Thank you to our partners, <a href="https://www.designforcontext.com/">Design for Context</a>, for their design and development work for the DRP.
